@@ -1,0 +1,36 @@
+.mid.image {
+
+
+}
+
+.grad-background {
+  background-size: cover;
+  height: 500px;
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+
+}
+
+ui.two.column.grid {
+
+  color: white;
+}
+
+.column p {
+  color: white;
+font-size: large;
+  padding-top: 100px;
+
+}
+
+.column img{ padding-left: 80px;
+  padding-top: 100px;
+}
+
+.foot .column {
+color: white;
+  background-color: #004030;
+}
+
+
+
+
